@@ -1,4 +1,4 @@
-Password Strength Checker
+# Password Strength Checker  
 Um projeto de cibersegurança que verifica a força de senhas com base em critérios de segurança, como comprimento, uso de letras maiúsculas/minúsculas, números e caracteres especiais. Inclui verificação contra senhas comuns e fornece feedback detalhado.
 Funcionalidades
 
