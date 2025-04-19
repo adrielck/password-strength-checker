@@ -8,10 +8,9 @@ Comprimento mínimo de 8 caracteres.
 Presença de letras maiúsculas, minúsculas, números e caracteres especiais.
 Não estar em uma lista de senhas comuns.
 
-```bash
  Fornece feedback para melhorar a senha.
   Inclui testes unitários para garantir robustez.
-```
+
 - Tecnologias Utilizadas
   Python 3.8+: Linguagem principal.
   Bibliotecas: re (expressões regulares), unittest (testes).
@@ -38,14 +37,16 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 
 
-Execute o programa:
+Execute o script:
+ ```bash
 python src/password_checker.py
+ ```
 
 
 Para rodar os testes:
+```bash
 python -m unittest tests/test_password_checker.py
-
-
+ ```
 
 Exemplo de Uso
 === Verificador de Força de Senha ===
