@@ -9,26 +9,25 @@ Presença de letras maiúsculas, minúsculas, números e caracteres especiais.
 Não estar em uma lista de senhas comuns.
 
 
-Fornece feedback para melhorar a senha.
-Inclui testes unitários para garantir robustez.
+- Fornece feedback para melhorar a senha.
+  Inclui testes unitários para garantir robustez.
 
-Tecnologias Utilizadas
-'''
-Python 3.8+: Linguagem principal.
-Bibliotecas: re (expressões regulares), unittest (testes).
-VS Code: Ambiente de desenvolvimento.
-'''
-Como Usar
-Pré-requisitos
+- Tecnologias Utilizadas
+  Python 3.8+: Linguagem principal.
+  Bibliotecas: re (expressões regulares), unittest (testes).
+  VS Code: Ambiente de desenvolvimento.
 
-Python 3.8 ou superior instalado.
-Visual Studio Code (recomendado).
+- Como Usar
+ - Pré-requisitos
 
-Instalação
+  Python 3.8 ou superior instalado.
+  Visual Studio Code (recomendado).
 
-Clone o repositório:
-git clone https://github.com/adrielck/password-strength-checker.git
-cd password-strength-checker
+- Instalação
+
+  Clone o repositório:
+  git clone https://github.com/adrielck/password-strength-checker.git
+  cd password-strength-checker
 
 
 (Opcional) Crie um ambiente virtual:
@@ -51,7 +50,7 @@ Exemplo de Uso
 Digite uma senha (ou 'sair' para encerrar): P@ssw0rd!2023
 Força da senha: Forte
 Feedback:
-- Senha excelente!
+ Senha excelente!
 
 
 
