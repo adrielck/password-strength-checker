@@ -25,10 +25,12 @@ Não estar em uma lista de senhas comuns.
 
 - Instalação
 
-  Clone o repositório:
+ ```bash
   git clone https://github.com/adrielck/password-strength-checker.git
+ ```
+ ```bash
   cd password-strength-checker
-
+ ```
 
 (Opcional) Crie um ambiente virtual:
 python -m venv venv
