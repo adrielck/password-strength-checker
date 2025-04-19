@@ -8,10 +8,10 @@ Comprimento mínimo de 8 caracteres.
 Presença de letras maiúsculas, minúsculas, números e caracteres especiais.
 Não estar em uma lista de senhas comuns.
 
-
-- Fornece feedback para melhorar a senha.
+```bash
+ Fornece feedback para melhorar a senha.
   Inclui testes unitários para garantir robustez.
-
+```
 - Tecnologias Utilizadas
   Python 3.8+: Linguagem principal.
   Bibliotecas: re (expressões regulares), unittest (testes).
