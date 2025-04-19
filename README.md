@@ -49,12 +49,13 @@ python -m unittest tests/test_password_checker.py
  ```
 
 Exemplo de Uso
+```bash
 === Verificador de Força de Senha ===
 Digite uma senha (ou 'sair' para encerrar): P@ssw0rd!2023
 Força da senha: Forte
 Feedback:
  Senha excelente!
-
+```
 
 
 
