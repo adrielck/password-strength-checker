@@ -12,6 +12,7 @@ Não estar em uma lista de senhas comuns.
   Inclui testes unitários para garantir robustez.
 
 - Tecnologias Utilizadas
+  
   Python 3.8+: Linguagem principal.
   Bibliotecas: re (expressões regulares), unittest (testes).
   VS Code: Ambiente de desenvolvimento.
