@@ -1,5 +1,5 @@
 # Password Strength Checker  
-## Um projeto de cibersegurança que verifica a força de senhas com base em critérios de segurança, como comprimento, uso de letras maiúsculas/minúsculas, números e caracteres especiais. Inclui verificação contra senhas comuns e fornece feedback detalhado.
+### Um projeto de cibersegurança que verifica a força de senhas com base em critérios de segurança, como comprimento, uso de letras maiúsculas/minúsculas, números e caracteres especiais. Inclui verificação contra senhas comuns e fornece feedback detalhado.
 Funcionalidades
 
 Avalia a força da senha (Fraca, Moderada, Forte).
@@ -13,11 +13,11 @@ Fornece feedback para melhorar a senha.
 Inclui testes unitários para garantir robustez.
 
 Tecnologias Utilizadas
-
+'''
 Python 3.8+: Linguagem principal.
 Bibliotecas: re (expressões regulares), unittest (testes).
 VS Code: Ambiente de desenvolvimento.
-
+'''
 Como Usar
 Pré-requisitos
 
