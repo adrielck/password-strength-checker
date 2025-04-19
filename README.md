@@ -17,12 +17,6 @@ Não estar em uma lista de senhas comuns.
   Bibliotecas: re (expressões regulares), unittest (testes).
   VS Code: Ambiente de desenvolvimento.
 
-- Como Usar
- - Pré-requisitos
-
-  Python 3.8 ou superior instalado.
-  Visual Studio Code (recomendado).
-
 - Instalação
 
  ```bash
